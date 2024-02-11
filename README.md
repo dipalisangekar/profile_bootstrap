@@ -1,1 +1,1 @@
-# profile_bootstrap
+# profile-bootstrap
